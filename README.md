@@ -14,8 +14,6 @@ This project demonstrates an image similarity retrieval system implemented entir
 2. Compute cosine similarity between query and dataset images
 3. Retrieve top-5 most similar images
 
-## 🔹 Sample Output
-![Output](final_output.png)
 
 ## 🔹 How to Run
 1. Open the notebook in Google Colab
